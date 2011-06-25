@@ -1,0 +1,3 @@
+Java cuboid boxes manager.
+
+The main problem is how to optimally place cuboid boxes and a cuboid container. Program also calculates items volume and weight and shows ratio for a container. It calculates how many containers are required to fit given number of boxes and describes how many boxes should be put in each container. Also draws box and container in scale. Contains a simple text editor with printing option. 
